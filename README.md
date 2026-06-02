@@ -88,6 +88,4 @@ Die `credentials.json` wird **nicht** eingecheckt (siehe `.gitignore`).
 
 ---
 
-## Fragen?
 
-Wende dich an Leonie Gerinter (`leonie.gerinter@apploft.de`).
